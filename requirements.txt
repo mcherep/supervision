@@ -1,0 +1,6 @@
+numpy
+pandas
+jupyter
+requests
+beautifulsoup4
+wikitextparser
