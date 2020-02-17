@@ -5,4 +5,3 @@ requests
 beautifulsoup4
 wikitextparser
 networkx
-python-louvain
