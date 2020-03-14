@@ -1,5 +1,7 @@
 # History of the Supervisor-Student Relationship
-The goal of this project is to analyze famous supervisor-student relationships with data scrapped from the Wikipedia. I intend to figure out who can be considered the best supervisors in history, those whose supervised students that ended up supervising more (and so on).
+This is a data analysis of supervisor-student relations throughout the history of science. I attempt to discover using data science who are the most important supervisors in history.
+
+Before you go on, let me suggest you to write down a prediction of great scientists that you expect to find in this analysis. I bet most of you will be partly surprised with the results.
 
 ## Installation
 
